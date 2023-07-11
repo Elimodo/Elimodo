@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elimodo
-- 👀 I’m interested in improving my coding skills
-- 🌱 I’m currently learning Javascript and python
+- 👀 I’m interested in improving my coding skills through collaboration
+- 🌱 I’m currently looking to apply my coding skills to solve simple and complex real-life problems
 - 💞️ I’m looking to collaborate on all aspects
 - 📫  
 
